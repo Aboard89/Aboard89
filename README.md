@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 🌅
 
 ### 💫 About Me:
-Hello, I'm Alex Boardman. Combining a deep passion for cloud computing, data science, and AI, I specialize in leveraging advanced technologies to transform organizations. With an extensive background at AWS and a fresh diploma in Data Science from BrainStation, I am skilled in deploying AWS solutions, developing data-driven strategies, and enhancing decision-making processes. My technical proficiency spans SQL, Python, R, and various AI frameworks, enabling me to lead projects that integrate cutting-edge technologies to drive innovation and efficiency.
+Hello, I'm Alex Boardman. Combining a deep passion for cloud computing, data science, and AI, I specialize in leveraging advanced technologies to transform organizations. With 10+ years experience at Amazon/AWS and a fresh diploma in Data Science from BrainStation, I am skilled in deploying AWS solutions, developing data-driven strategies, and enhancing decision-making processes. My technical proficiency spans SQL, Python, R, and various AI frameworks, enabling me to lead projects that integrate cutting-edge technologies to drive innovation and efficiency.
 
 ### 🌱 I'm currently:
 - Based in London, UK.
