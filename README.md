@@ -23,8 +23,6 @@ Outside of professional interests, I'm an avid sports enthusiast, enjoying padel
 - [Octopus Energy Real-Time Energy Savings App](https://drive.google.com/file/d/1vsbu1SmvomaJEzHuaQZ9yIVozv-yw3sx/view?usp=sharing) - During a 24-hour hackathon, I teamed up with BrainStation Data Science, UX, and Software Engineering students to develop features for the Octopus Energy App to help promote sustainable energy use.
 - Numerous AWS projects enhancing gaming and business solutions, integrating cloud economics, and data analytics to optimize performance and growth.
 
-- Numerous AWS projects enhancing gaming and business solutions, integrating cloud economics, and data analytics to optimize performance and growth.
-
 ### 🛠️ Languages and Tools:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
