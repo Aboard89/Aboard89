@@ -21,6 +21,7 @@ Outside of professional interests, I'm an avid sports enthusiast, enjoying padel
 - [F1 Grand Prix Winner Project](https://github.com/Aboard89/f1_race_predictor) - The F1 Race Predictor Project (my BrainStation Capstone project) leverages advanced machine learning techniques and extensive Formula 1 data to predict race winners, enhancing betting strategies, team performance, and fan engagement by transforming extensive historical and pre-race data into actionable, predictive insights.
 - [F1 Streamlit App](https://github.com/Aboard89/F1_Streamlit_App) - Utilizes Python and Streamlit to create an interactive app to see who is likely to win each 2024 Grand Prix race.
 - [Octopus Energy Real-Time Energy Savings App](https://drive.google.com/file/d/1vsbu1SmvomaJEzHuaQZ9yIVozv-yw3sx/view?usp=sharing) - During a 24-hour hackathon, I teamed up with BrainStation Data Science, UX, and Software Engineering students to develop features for the Octopus Energy App to help promote sustainable energy use.
+- [AirTraffic Project]([https://github.com/Aboard89/Tableau-Airline-Traffic-US-Private-Equity-Analysis]) - This project analyzes air traffic data using Tableau/SQL queries to provide insights for investment decisions in major airline stocks for the BrainStation Mutual Fund.
 - Numerous AWS projects enhancing gaming and business solutions, integrating cloud economics, and data analytics to optimize performance and growth.
 
 ### 🛠️ Languages and Tools:
